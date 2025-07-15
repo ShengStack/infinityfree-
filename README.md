@@ -1,6 +1,6 @@
 # [网站名称] - [简短描述]
 
-[![网站图标](1111/logo-purple)](https://www.infinityfree.com/)  
+[![网站图标](1111/logo-purple.png)](https://www.infinityfree.com/)  
 *点击图标访问官网*
 
 InfinityFree 是一个提供 免费虚拟主机（Free Web Hosting） 的服务商，主要面向个人开发者、学生和小型项目。它基于 iFastNet 公司的免费托管服务，提供 PHP + MySQL 支持，适合搭建 WordPress、论坛（如 phpBB）等动态网站。
