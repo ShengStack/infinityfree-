@@ -1,4 +1,4 @@
-# [网站名称] - [简短描述]
+
 
 [![网站图标](1111/logo-purple.png)](https://www.infinityfree.com/)  
 *InfinityFree*
